@@ -1,3 +1,7 @@
+import discord
+import telegram
+import os
+
 # Discord client setup
 discord_token = 'YOUR_DISCORD_TOKEN_HERE'
 
